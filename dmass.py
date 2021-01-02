@@ -1,4 +1,4 @@
-import discord
+Nzk1MDI3MjMwMTM1NjgxMDQ1.X_DYzg.i4JhlHgfvHVpr6d8ZOucZg7qdy8import discord
 from discord.ext.commands import bot
 from discord import game
 from discord.ext import commands
@@ -42,6 +42,6 @@ async def send(ctx, *, content: str):
             except:
                 print("can't")
                 await client.say("DM can't Sent To : {} :x: ".format(member))
-
-
-client.run("YOUR BOT'S TOKEN HERE")                
+U
+U
+клиент . бягай ( "Nzk1MDI3MjMwMTM1NjgxMDQ1.X_DYzg.i4JhlHgfvHVpr6d8ZOucZg7qdy8" )                
